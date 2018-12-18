@@ -105,7 +105,7 @@ return false;
 <div class='cnt223'>
 <h1>Welcome To Filkom web!</h1>
 <p>
-You can check the list of our staff and Lecturer by click on nav-bar on the top. thank you for visiting us.
+You can check the list of our staff, Lecturer and Student by click on nav-bar on the top. thank you for visiting us.
 <br/>
 <br/>
 <a href='' class='close'>Close</a>
@@ -129,6 +129,7 @@ You can check the list of our staff and Lecturer by click on nav-bar on the top.
        <ul class="nav navbar-nav">
         <li><a href="http://localhost/semweb/Staff/">Staff</a></li>
         <li><a href="http://localhost/semweb/Lecturer/">Lecturer</a></li>
+        <li><a href="http://localhost/semweb/Mahasiswa/">Student</a></li>
        </ul>
       </div>
      </div>

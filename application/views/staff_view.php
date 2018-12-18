@@ -24,6 +24,7 @@
        <ul class="nav navbar-nav">
         <li><a href="http://localhost/semweb/Staff/">Staff</a></li>
         <li><a href="http://localhost/semweb/Lecturer/">Lecturer</a></li>
+        <li><a href="http://localhost/semweb/Mahasiswa/">Student</a></li>
        </ul>
       </div>
      </div>
